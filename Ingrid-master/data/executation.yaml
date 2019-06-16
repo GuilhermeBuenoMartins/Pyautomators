@@ -1,0 +1,7 @@
+  Teste: 
+    Tipo: Desktop
+    Name: Ingrid
+    Saida: test.json
+    Tags: 
+      - BuscaOperativa
+    Args: {}

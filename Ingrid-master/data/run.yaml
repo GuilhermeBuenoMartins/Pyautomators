@@ -1,0 +1,9 @@
+TesteVSTS1:
+    Tipo: Desktop
+    Saida: test.json
+    Name: InclusaoSR
+    Tags:
+        - IncidenciaCriarEvento
+    Args:
+        user: 'vgama'
+        

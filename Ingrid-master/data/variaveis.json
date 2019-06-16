@@ -1,0 +1,10 @@
+{
+"variaveis":{
+		
+		"telaAviso":{
+			"nomePessoa": "Pedro",
+			"enderecoPessoa": "Rua dos teste",
+			"telefonePessoa": "19 991929292",
+		}
+	}
+}
